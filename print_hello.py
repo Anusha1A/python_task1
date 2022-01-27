@@ -1,0 +1,3 @@
+class printhello:
+	print("hello")
+
